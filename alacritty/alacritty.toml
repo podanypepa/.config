@@ -1,0 +1,110 @@
+# theme = "3024.dark"
+
+[colors]
+# author = "Chris Kempson"
+# name = "3024 (dark)"
+
+[colors.bright]
+black = "#5c5855"
+blue = "#01a0e4"
+cyan = "#b5e4f4"
+green = "#01a252"
+magenta = "#a16a94"
+red = "#db2d20"
+white = "#f7f7f7"
+yellow = "#fded02"
+
+[colors.cursor]
+cursor = "#a5a2a2"
+text = "#090300"
+
+[colors.normal]
+black = "#090300"
+blue = "#01a0e4"
+cyan = "#b5e4f4"
+green = "#01a252"
+magenta = "#a16a94"
+red = "#db2d20"
+white = "#a5a2a2"
+yellow = "#fded02"
+
+[colors.primary]
+background = "#090300"
+foreground = "#a5a2a2"
+
+[env]
+EDITOR = "nvim"
+
+[font]
+size = 15.6
+# use_anti_alias = true
+
+[font.bold]
+family = "SauceCodePro Nerd Font"
+
+[font.bold_italic]
+family = "SauceCodePro Nerd Font"
+
+[font.italic]
+family = "SauceCodePro Nerd Font"
+
+[font.normal]
+family = "SauceCodePro Nerd Font"
+
+[font.offset]
+x = 0
+y = 2
+
+# [schemes.gruvbox.bright]
+# black = "0x928374"
+# blue = "0x83a598"
+# cyan = "0x8ec07c"
+# green = "0xb8bb26"
+# magenta = "0xd3869b"
+# red = "0xfb4934"
+# white = "0xebdbb2"
+# yellow = "0xfabd2f"
+
+# [schemes.gruvbox.normal]
+# black = "0x000000"
+# blue = "0x458588"
+# cyan = "0x689d6a"
+# green = "0x98971a"
+# magenta = "0xb16286"
+# red = "0xcc241d"
+# white = "0xa89984"
+# yellow = "0xd79921"
+
+# [schemes.gruvbox.primary]
+# background = "0x000000"
+# foreground = "0x8b949e"
+#
+# [schemes.xterm.bright]
+# black = "#7f7f7f"
+# blue = "#5c5cff"
+# cyan = "#00ffff"
+# green = "#00ff00"
+# magenta = "#ff00ff"
+# red = "#ff0000"
+# white = "#ffffff"
+# yellow = "#ffff00"
+
+# [schemes.xterm.normal]
+# black = "#000000"
+# blue = "#0000ee"
+# cyan = "#00cdcd"
+# green = "#00cd00"
+# magenta = "#cd00cd"
+# red = "#cd0000"
+# white = "#e5e5e5"
+# yellow = "#cdcd00"
+
+[window]
+dynamic_padding = false
+# decorations = "buttonless"
+# decorations = "buttonless"
+# multiplier = 3
+
+[window.padding]
+x = 7
+y = 0
