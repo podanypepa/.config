@@ -1,7 +1,7 @@
 # ghostty config
 # ghostty +show-config --default --docs | nvim
 
-font-size = 15
+font-size = 15.6
 font-thicken = true
 
 # ghostty +list-themes
@@ -10,3 +10,9 @@ theme = GitHub Dark
 window-padding-x = 10
 window-padding-y = 10
 
+font-family = "SauceCodePro Nerd Font"
+font-family-bold = "SauceCodePro Nerd Font"
+font-family-italic = "SauceCodePro Nerd Font"
+font-family-bold-italic = "SauceCodePro Nerd Font"
+
+keybind = global:cmd+grave_accent=toggle_quick_terminal
