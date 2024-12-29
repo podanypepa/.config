@@ -1,0 +1,6 @@
+# ghostty config
+
+font-size = 15
+font-thicken = true
+# theme = NvimDark
+theme = GitHub Dark
