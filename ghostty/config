@@ -1,6 +1,12 @@
 # ghostty config
+# ghostty +show-config --default --docs | nvim
 
 font-size = 15
 font-thicken = true
-# theme = NvimDark
+
+# ghostty +list-themes
 theme = GitHub Dark
+
+window-padding-x = 10
+window-padding-y = 10
+
