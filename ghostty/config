@@ -15,6 +15,8 @@ font-family-bold = "SauceCodePro Nerd Font"
 font-family-italic = "SauceCodePro Nerd Font"
 font-family-bold-italic = "SauceCodePro Nerd Font"
 
+window-title-font-family = "SauceCodePro Nerd Font"
+
 keybind = global:cmd+grave_accent=toggle_quick_terminal
 keybind = shift+left=previous_tab
 keybind = shift+right=next_tab
@@ -22,3 +24,7 @@ keybind = alt+left=goto_split:previous
 keybind = alt+right=goto_split:next
 keybind = alt+left=goto_split:previous
 keybind = alt+right=goto_split:next
+keybind = cmd+f=toggle_fullscreen
+
+# https://ghostty.org/docs/config/reference#macos-non-native-fullscreen
+macos-non-native-fullscreen = true
