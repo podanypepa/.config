@@ -30,4 +30,16 @@ keybind = cmd+f=toggle_fullscreen
 
 # https://ghostty.org/docs/config/reference#macos-non-native-fullscreen
 macos-non-native-fullscreen = true
+shell-integration = zsh
+
+auto-update = check
+window-save-state = always
+focus-follows-mouse = true
+#
+# split-separator-color = red
+auto-update-channel = tip
 # window-decoration = false
+# macos-titlebar-style = hidden
+#
+# https://www.ditig.com/publications/256-colors-cheat-sheet
+split-divider-color = #444444
