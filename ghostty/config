@@ -43,3 +43,5 @@ auto-update-channel = tip
 #
 # https://www.ditig.com/publications/256-colors-cheat-sheet
 split-divider-color = #444444
+
+window-new-tab-position = current
