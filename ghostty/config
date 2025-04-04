@@ -1,7 +1,8 @@
 # ghostty config
 # ghostty +show-config --default --docs | nvim
 
-font-size = 15.6
+font-size = 15.3
+# font-size = 15.6
 font-thicken = true
 
 # ghostty +list-themes
